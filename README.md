@@ -6,7 +6,7 @@ A minimalistic http server that helps you to test your frontend without any hass
 
 ## Installation
 ```sh
-go install github.com/lherman-cs/serve
+go get github.com/lherman-cs/serve
 ```
 
 ## Usage
